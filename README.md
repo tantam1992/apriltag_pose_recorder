@@ -1,2 +1,2 @@
-# april_tag_pose_recorder
-AprilTag Poses Recorder
+# apriltag_pose_recorder
+AprilTag Pose Recorder
